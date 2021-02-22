@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-22T15:45:53.927Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="ddMSNAfyKxcQEkKxiVPz" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-22T16:43:32.084Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="E1bxO2fdr4mz__ueBBs2" version="14.4.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1622" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1963" dy="670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -213,8 +213,8 @@
         <mxCell id="FX12IVZ7UqzFeH-IZBvV-87" value="Create sharing link for file" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="20.5" y="1430" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FX12IVZ7UqzFeH-IZBvV-88" value="Send out for final approval" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="15.75" y="1490" width="178" height="40" as="geometry" />
+        <mxCell id="FX12IVZ7UqzFeH-IZBvV-88" value="Send out for final approval to form requester" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="18.37" y="1490" width="174.25" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FX12IVZ7UqzFeH-IZBvV-110" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FX12IVZ7UqzFeH-IZBvV-89" target="FX12IVZ7UqzFeH-IZBvV-87">
           <mxGeometry relative="1" as="geometry" />
@@ -277,6 +277,9 @@
         <mxCell id="FX12IVZ7UqzFeH-IZBvV-120" value="If person approves" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-138" y="1580" width="151" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="FX12IVZ7UqzFeH-IZBvV-141" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FX12IVZ7UqzFeH-IZBvV-121" target="FX12IVZ7UqzFeH-IZBvV-140">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="FX12IVZ7UqzFeH-IZBvV-121" value="Person denies" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="195" y="1580" width="151" height="40" as="geometry" />
         </mxCell>
@@ -312,6 +315,9 @@
         </mxCell>
         <mxCell id="FX12IVZ7UqzFeH-IZBvV-132" value="Flow ends" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-115.75" y="1900" width="106.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FX12IVZ7UqzFeH-IZBvV-140" value="Send email containing link to file on Sharepoint to form keeper for documentation purposes" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="136.19" y="1640" width="268.62" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
