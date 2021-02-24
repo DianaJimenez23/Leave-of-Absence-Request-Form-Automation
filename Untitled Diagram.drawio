@@ -1,20 +1,20 @@
-<mxfile host="app.diagrams.net" modified="2021-02-22T20:32:24.609Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="SetE5uWG5Swf15_4jIxU" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-24T18:15:49.379Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="p30J6cqceVtvIsLoPrMw" version="14.4.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1963" dy="670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1622" dy="1638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="When a new response is submitted" style="whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="314" y="70" width="200" height="40" as="geometry" />
+          <mxGeometry x="314" y="20" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FX12IVZ7UqzFeH-IZBvV-1" value="Get email list from SharePoint list" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="316" y="130" width="196" height="40" as="geometry" />
+        <mxCell id="FX12IVZ7UqzFeH-IZBvV-1" value="Get email list from SharePoint list (Rolodox)" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="288" y="80" width="254" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FX12IVZ7UqzFeH-IZBvV-34" style="edgeStyle=elbowEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FX12IVZ7UqzFeH-IZBvV-2" target="FX12IVZ7UqzFeH-IZBvV-13">
+        <mxCell id="FX12IVZ7UqzFeH-IZBvV-144" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FX12IVZ7UqzFeH-IZBvV-2" target="FX12IVZ7UqzFeH-IZBvV-142">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FX12IVZ7UqzFeH-IZBvV-2" value="Get response details" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="339" y="190" width="150" height="30" as="geometry" />
+          <mxGeometry x="339.51" y="140" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FX12IVZ7UqzFeH-IZBvV-9" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="FX12IVZ7UqzFeH-IZBvV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -38,7 +38,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FX12IVZ7UqzFeH-IZBvV-14" value="Create Microsoft Form" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="314" y="20" width="200" height="30" as="geometry" />
+          <mxGeometry x="314.51" y="-30" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FX12IVZ7UqzFeH-IZBvV-38" style="edgeStyle=elbowEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FX12IVZ7UqzFeH-IZBvV-16" target="FX12IVZ7UqzFeH-IZBvV-17">
           <mxGeometry relative="1" as="geometry" />
@@ -77,7 +77,11 @@
           <mxGeometry x="270" y="530" width="288" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FX12IVZ7UqzFeH-IZBvV-45" style="edgeStyle=elbowEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FX12IVZ7UqzFeH-IZBvV-28" target="FX12IVZ7UqzFeH-IZBvV-29">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="630" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="FX12IVZ7UqzFeH-IZBvV-28" value="Create sharing link for file" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="329" y="590" width="170" height="40" as="geometry" />
@@ -85,8 +89,8 @@
         <mxCell id="FX12IVZ7UqzFeH-IZBvV-50" style="edgeStyle=elbowEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FX12IVZ7UqzFeH-IZBvV-29" target="FX12IVZ7UqzFeH-IZBvV-46">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FX12IVZ7UqzFeH-IZBvV-29" value="Get user profiles for each person on emailing list" style="whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="268" y="650" width="292" height="40" as="geometry" />
+        <mxCell id="FX12IVZ7UqzFeH-IZBvV-29" value="Get user profiles for faculty" style="whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="333.13" y="650" width="172" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FX12IVZ7UqzFeH-IZBvV-51" style="edgeStyle=elbowEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;elbow=vertical;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FX12IVZ7UqzFeH-IZBvV-46" target="FX12IVZ7UqzFeH-IZBvV-48">
           <mxGeometry relative="1" as="geometry" />
@@ -318,6 +322,12 @@
         </mxCell>
         <mxCell id="FX12IVZ7UqzFeH-IZBvV-140" value="Send email containing link to file on Sharepoint to form keeper for documentation purposes" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="136.19" y="1640" width="268.62" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FX12IVZ7UqzFeH-IZBvV-145" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FX12IVZ7UqzFeH-IZBvV-142" target="FX12IVZ7UqzFeH-IZBvV-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FX12IVZ7UqzFeH-IZBvV-142" value="Get user profile for student" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="333" y="190" width="162" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
