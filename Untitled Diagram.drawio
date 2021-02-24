@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-24T18:15:49.379Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="p30J6cqceVtvIsLoPrMw" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-24T18:19:00.487Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="kxTD4qqbsJdTbss052rg" version="14.4.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1622" dy="1638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -98,8 +98,8 @@
         <mxCell id="FX12IVZ7UqzFeH-IZBvV-54" style="edgeStyle=elbowEdgeStyle;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FX12IVZ7UqzFeH-IZBvV-46" target="FX12IVZ7UqzFeH-IZBvV-53">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FX12IVZ7UqzFeH-IZBvV-46" value="Send out first set of approvals" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="330" y="710" width="180" height="40" as="geometry" />
+        <mxCell id="FX12IVZ7UqzFeH-IZBvV-46" value="Send out first set of approvals to faculty (everyone except Associate Dean for Student Affairs)&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="260" y="710" width="330" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FX12IVZ7UqzFeH-IZBvV-100" style="edgeStyle=elbowEdgeStyle;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FX12IVZ7UqzFeH-IZBvV-48" target="FX12IVZ7UqzFeH-IZBvV-57">
           <mxGeometry relative="1" as="geometry" />
@@ -154,8 +154,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="FX12IVZ7UqzFeH-IZBvV-64" value="Send out first set of approvals" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="172" y="1030" width="207" height="40" as="geometry" />
+        <mxCell id="FX12IVZ7UqzFeH-IZBvV-64" value="Send out approvals phase 2: Associate Dean for Student Affairs approval" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="130" y="1030" width="290" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FX12IVZ7UqzFeH-IZBvV-104" style="edgeStyle=elbowEdgeStyle;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FX12IVZ7UqzFeH-IZBvV-65" target="FX12IVZ7UqzFeH-IZBvV-71">
           <mxGeometry relative="1" as="geometry" />
