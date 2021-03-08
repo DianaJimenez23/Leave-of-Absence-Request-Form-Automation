@@ -5,3 +5,5 @@ I worked on this project during my time at WMU Homer Stryker M.D. School of Medi
 This flow showcases how to use Power Automate to capture Microsoft Form responses, signatures, dates and comments (using approvals) to populate the document.
 
 This project took advantage of the following technologies: Microsoft Forms, Word, SharePoint, and Power Automate as well as the diagrams.net application to create a visual workflow.
+
+To open the drawio diagram, fork the file onto your GitHub account, visit https://app.diagrams.net/, and open the file from GitHub.
